@@ -1,6 +1,6 @@
 # Medical Claims Extraction and QA Microservice
 
-## 🩺 Overview
+## Overview
 
 This project implements an intelligent microservice for medical claim document processing that is capable of:
 
@@ -82,7 +82,7 @@ tests/
 | **Testing** | Wrote unit tests for core endpoints using `pytest` to verify correctness. |
 
 ---
-## 🧠 Mock LLM Fallback (New)
+## Mock LLM Fallback (New)
 
 The mock LLM fallback is implemented in `_extract_with_llm()` inside `extraction_service.py`.
 
@@ -96,7 +96,7 @@ This makes your service appear intelligent and self-recovering, without dependin
 
 ---
 
-## 🔍 Example Output
+## Example Output
 
 ### 1️`/extract`
 
